@@ -1,0 +1,22 @@
+
+.bb{ width: 1290;height: 180;
+
+}
+.banner{background-color: rgb(83, 131, 131);}
+.cardcontainer{display: flex;
+ justify-content: center;
+  flex-wrap: wrap;
+}
+.one{flex-basis: calc(50%);
+  font-style: oblique;
+}
+.one img{ 
+ border-style: double;
+border-color: black;
+width: 100px;
+}
+
+  .aa{
+    text-align: center;
+
+  }

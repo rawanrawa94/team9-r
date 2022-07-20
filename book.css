@@ -1,0 +1,31 @@
+
+.container img {width: 100%;height: 40%;
+    margin: 0%;
+  background-color: rgb(103, 255, 207);
+}
+.container  p {
+padding: 1em;
+}
+.img-div{ 
+width: 100%;height: 10%;
+ position: relative;
+ }
+.banner{font-style: oblique;
+    font-size: larger;
+    position: absolute;
+    bottom: 10%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(155, 196, 196);
+    width: 100%;
+    text-decoration-line: underline;
+    color: rgb(245, 245, 245);
+}
+.banner h1 a{color: rgb(255, 255, 255);
+    text-decoration-line: underline;
+
+}
+.img-div img{
+    width: 1300;
+    height: 1000%;
+}
